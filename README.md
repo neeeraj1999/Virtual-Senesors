@@ -17,7 +17,7 @@
   
   <section>
       <h2>Overview</h2>
-      <p>This project involves setting up a simulated IoT environment using ESP32 with MicroPython on Wokwi and publishing sensor data to ThingSpeak. The simulation includes virtual sensors for monitoring temperature, humidity, and CO2 levels.</p>
+      <p>This involves setting up a simulated IoT environment using ESP32 with MicroPython on Wokwi and publishing sensor data to ThingSpeak. The simulation includes virtual sensors for monitoring temperature, humidity, and CO2 levels.</p>
   </section>
   
   <section>
