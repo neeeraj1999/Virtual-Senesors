@@ -19,7 +19,15 @@
       <h2>Overview</h2>
       <p>This involves setting up a simulated IoT environment using ESP32 with MicroPython on Wokwi and publishing sensor data to ThingSpeak. The simulation includes virtual sensors for monitoring temperature, humidity, and CO2 levels.</p>
   </section>
-  
+    <section>
+      <h2>Description</h2>
+      <p>Build a cloud-based IoT system which collects data from a set of virtual sensors that are
+deployed to collect environmental information using the MQTT protocol.
+Display the latest sensor data values received from all the sensors of a specified environmental
+station.
+Display the sensor data values received during the last five hours from all environmental station
+of a specified sensor</p>
+  </section>
   <section>
       <h2>Pre-requisites</h2>
       <ul>
@@ -45,7 +53,8 @@
   </ol>
 
   <h3>3. MQTT Configuration</h3>
-  <p>Use Python to configure MQTT clients and ensure proper authentication using the umqtt library.</p>
+  <p>Use Python to configure MQTT clients and ensure proper authentication using the umqtt library.
+</p>
 
   <h3>4. Code Configuration</h3>
   <p>Insert your ThingSpeak and Wi-Fi credentials into the provided code.</p>
