@@ -12,7 +12,7 @@
   <section>
       <h2>By</h2>
       <p>Neeraj Patil</p>
-      <p>SUID: 404910861</p>
+      
   </section>
   
   <section>
