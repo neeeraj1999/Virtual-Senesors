@@ -57,14 +57,16 @@ of a specified sensor</p>
 </p>
 
   <h3>4. Code Configuration</h3>
-  <p>Insert your ThingSpeak and Wi-Fi credentials into the provided code.</p>
+  <p>Insert your ThingSpeak and Wi-Fi credentials into the provided code.Update the WiFi with your current Wi-Fi credentials. Since we are using wokwi, it creates a virtual WiFi access point called Wokwi-GUEST. It is an open access point, thus no password is necessary.</p>
 
 
   <h3>5. Simulation Execution</h3>
-  <p>Paste the code into Wokwi's editor and run it. The simulation will output sensor data every 20 seconds.</p>
+  <p>Paste the code into Wokwi's editor and run it. The code will simulate temperature, humidity, and CO2 readings, and publish this data to the ThingSpeak.</p>
 
   <h3>6. ThingSpeak Visualization</h3>
-  <p>Access your ThingSpeak channel to view the data and utilize ThingSpeak's tools for further data analysis.</p>
+  <p>You should see the published data visualized in the corresponding fields.
+Use ThingSpeak's analytics tools to process and visualize the data as needed. For reference, see the output image which i have provided.
+</p>
   </section>
   
 </body>
