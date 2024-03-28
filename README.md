@@ -59,6 +59,8 @@ of a specified sensor</p>
 
   <h3>4. Code Configuration</h3>
   <p>Insert your ThingSpeak and Wi-Fi credentials into the provided code.</p>
+  ![image](https://github.com/neeeraj1999/Virtual-Sensors/assets/53390132/fe797653-c758-4200-9544-38c423499021)
+
 
   <h3>5. Simulation Execution</h3>
   <p>Paste the code into Wokwi's editor and run it. The simulation will output sensor data every 20 seconds.</p>
