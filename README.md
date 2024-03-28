@@ -53,7 +53,8 @@ of a specified sensor</p>
   </ol>
 
   <h3>3. MQTT Configuration</h3>
-  <p>Use Python to configure MQTT clients and ensure proper authentication using the umqtt library.
+  <p>Use Python to configure MQTT clients and ensure proper authentication using the umqtt library.![mqt](https://github.com/neeeraj1999/Virtual-Sensors/assets/53390132/6a129f4b-af07-4f1f-9321-0a8b47e4401c)
+
 </p>
 
   <h3>4. Code Configuration</h3>
